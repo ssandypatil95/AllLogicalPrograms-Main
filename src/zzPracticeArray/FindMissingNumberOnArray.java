@@ -18,7 +18,7 @@ public class FindMissingNumberOnArray {
 		   else 
 		   {
 			   System.out.println(a[i]+1);
-			   break;
+	     	   break;
 		   }
 	   }
  }

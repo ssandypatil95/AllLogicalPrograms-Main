@@ -28,5 +28,6 @@ public class ArraySortingWithLogic {
 			  } 
 		  }
 		  System.out.println(a[a.length-2]);
+		  
 	}
 }
